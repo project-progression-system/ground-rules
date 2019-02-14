@@ -1,4 +1,4 @@
-# ground-rules
+# The Covenant 
 
 I hereby declare the conditions for our exclusive group are as follows:
 
@@ -15,5 +15,7 @@ For all those in Favor say "aye"
 Aye, Thomas Herrera
 
 Aye, Lance Zotigh
+
+Aye, Alex Rauenzahn
 
 And so shall it be...
