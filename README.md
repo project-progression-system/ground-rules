@@ -14,4 +14,6 @@ For all those in Favor say "aye"
 
 Aye, Thomas Herrera
 
+Aye, Lance Zotigh
+
 And so shall it be...
