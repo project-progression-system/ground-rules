@@ -1,4 +1,4 @@
-# The Covenant 
+# The Covenant
 
 I hereby declare the conditions for our exclusive group are as follows:
 
